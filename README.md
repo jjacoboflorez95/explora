@@ -53,11 +53,11 @@ For this project, I was responsible for developing:
 ## 🖼️ Screenshots
 
 | Home | Colombia |
-|------------|---------|------------|
+|------------|---------|
 | ![Home](images/github/home.png) | ![About Us](images/github/colombia.png) |
 
 | Ghana | Contact Us |
-|------------|---------|------------|
+|------------|---------|
 | ![Home](images/github/ghana.png) | ![About Us](images/github/contact.png) |
 
 ## 📜 License
