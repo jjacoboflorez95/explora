@@ -50,6 +50,16 @@ For this project, I was responsible for developing:
 - **Colombia Page (`colombia.html`)**: Created content showcasing the country's attractions and culture.
 - **Ensured a consistent and visually appealing design across pages.**
 
+## 🖼️ Screenshots
+
+| Home | Colombia |
+|------------|---------|------------|
+| ![Home](images/github/home.png) | ![About Us](images/github/colombia.png) |
+
+| Ghana | Contact Us |
+|------------|---------|------------|
+| ![Home](images/github/ghana.png) | ![About Us](images/github/contact.png) |
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **final college assignment**.
